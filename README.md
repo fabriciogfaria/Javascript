@@ -1,5 +1,6 @@
--------------||------------ JAVASCRIPT ------------||-------------
+# -------------||------------ **JAVASCRIPT** ------------||-------------
+   ##                         Projetos desenvolvidos em **Javascript**
 
-Projetos desenvolvidos em Javascript
-
-Um jogo da velha
+1. **Jogo Da Velha**
+   1. Um jogo da velha usando html e funções em javascript.
+   
